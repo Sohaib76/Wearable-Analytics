@@ -1,0 +1,12 @@
+Read data file(s) given in data.zip. There are several simultaneously measured and time synced 
+signals (ecg and two ppg sensors both containing three channels with different wavelengths). 
+Plot these signals and visually inspect them.
+
+For your information data.zip contains two files
+ecg_ppg_clean.csv
+ecg_ppg_motion.csv
+
+
+Both files contains following columns 
+ecg	ppg_1_green	ppg_1_red	ppg_1_ir	ppg_2_green	ppg_2_red	ppg_2_ir
+
